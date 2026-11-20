@@ -1,2 +1,2 @@
-#AI1308 - Hello World 
+#ai1308-hello
 "Repository for Git." 
