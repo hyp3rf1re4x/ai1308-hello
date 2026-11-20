@@ -1,1 +1,2 @@
-"Test quy trinh clone, commit, push va branch cho AI1308." 
+"# AI1308 - Hello World" 
+"Repository for Git." 
