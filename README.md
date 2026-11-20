@@ -1,2 +1,3 @@
-#ai1308-hello
-"Repository for Git." 
+# AI1308 Hello World
+
+Repo thuc hanh Git mon AI1308.
